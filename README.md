@@ -40,7 +40,6 @@ Feel free to reach out to me on LinkedIn. Let's build something awesome together
 
 [<img src="https://www.kali.org/tools/powershell/images/powershell-logo.svg" height="40">](https://aka.ms/PSWindows)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Vmware-by-broadcom.svg" height="40">](https://www.vmware.com/)
-[<img src="https://www.connectwise.com/globalassets/media/logos/flagged/automate-logo.png" height="40">](https://www.connectwise.com/software/automate)
 [<img src ="https://mac.getutm.app/images/logo@2x.png" height="40">](https://mac.getutm.app/)
 [<img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWFQKzZ1qaXGyUmuZggOA9EDiLt9kpv9KyxA&usqp=CAU" height="40">](https://www.arduino.cc/)
 [<img src ="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" height="40">](https://www.raspberrypi.com/)
