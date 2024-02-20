@@ -1,3 +1,6 @@
+
+![Screenshot 2024-02-20 at 12 11 15 AM](https://github.com/Tavleen0302/Tavleen0302/assets/70829396/2cfd31b1-e0f2-40fe-8ce0-6f228134530c)
+
 # Hi there, I'm Tavleen Singh Aneja! 🚀
 
 I'm a passionate Computer engineering student with a passion for solving problems in the world of cybersecurity!
