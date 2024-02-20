@@ -11,7 +11,7 @@ Feel free to reach out to me on LinkedIn. Let's build something awesome together
 
 - 🌍  I'm based in Toronto, ON
 - ✉️  You can contact me at tavleen0302@gmail.com
-- 🧠  I'm learning Web pentesting and network infastructure
+- 🧠  I'm learning Web pen testing and network infrastructure
 - 🤝  I'm open to collaborating on doing Bug Bounties, Home Labs, & more.
 
 ## Cybersecurity
@@ -41,6 +41,7 @@ Feel free to reach out to me on LinkedIn. Let's build something awesome together
 [<img src="https://www.kali.org/tools/powershell/images/powershell-logo.svg" height="40">](https://aka.ms/PSWindows)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Vmware-by-broadcom.svg" height="40">](https://www.vmware.com/)
 [<img src ="https://mac.getutm.app/images/logo@2x.png" height="40">](https://mac.getutm.app/)
+[<img src ="https://files.cults3d.com/uploaders/13889723/illustration-file/88f914f9-4ec0-4d0c-8ebb-5edc51f4b3cd/kali_linux.jpg" height="40">](https://www.kali.org/)
 [<img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWFQKzZ1qaXGyUmuZggOA9EDiLt9kpv9KyxA&usqp=CAU" height="40">](https://www.arduino.cc/)
 [<img src ="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" height="40">](https://www.raspberrypi.com/)
 
