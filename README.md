@@ -5,7 +5,7 @@ I'm a passionate Computer engineering student with a passion for solving problem
 ## Get in Touch
 Feel free to reach out to me on LinkedIn. Let's build something awesome together!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tavleen-aneja/)
+[<img src="https://t3.ftcdn.net/jpg/03/95/39/16/360_F_395391650_6LfU41V5A4WIhdTis899OaF7wXVgThgP.jpg" height="40">](https://www.linkedin.com/in/tavleen-aneja/)
 
 ## About Me
 
