@@ -38,6 +38,7 @@ Feel free to reach out to me on LinkedIn. Let's build something awesome together
 
 ## IT Tools
 
+[<img src="https://ih1.redbubble.net/image.3102179491.5021/st,small,507x507-pad,600x600,f8f8f8.jpg" height="40">](https://www.kali.org/tools/)
 [<img src="https://www.kali.org/tools/powershell/images/powershell-logo.svg" height="40">](https://aka.ms/PSWindows)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Vmware-by-broadcom.svg" height="40">](https://www.vmware.com/)
 [<img src ="https://mac.getutm.app/images/logo@2x.png" height="40">](https://mac.getutm.app/)
