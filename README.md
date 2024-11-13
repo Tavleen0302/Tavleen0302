@@ -11,7 +11,7 @@ Feel free to reach out to me on LinkedIn. Let's build something awesome together
 - 🌍  I'm based in Toronto, ON
 - ✉️  You can contact me at tavleen0302@gmail.com
 - 🧠  I'm learning Web pen testing and network infrastructure
-- 🤝  I'm open to collaborating on doing Bug Bounties, Home Labs, & more.
+- 🤝  I'm open to collaborating on doing Projects, Home Labs, & more.
 
 ## Cybersecurity
 
@@ -47,6 +47,9 @@ Feel free to reach out to me on LinkedIn. Let's build something awesome together
 
 ## Certifications
 
+
+[View Certificate](https://learn.microsoft.com/api/credentials/share/en-us/TavleenAneja-8477/A8C89CD6E765FF4B?sharingId=6C933E6A519ABE8B)
+
 [<img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_74x24dp.png" height="40">](https://www.coursera.org/professional-certificates/google-cybersecurity)
 
 🎓 Certified in Google Cybersecurity with Cybersecurity Professional Certificate.
@@ -55,5 +58,5 @@ Feel free to reach out to me on LinkedIn. Let's build something awesome together
 
 ## Goals for 2024
 
-- 🌟 Expand my knowledge in Cybersecurity/Penetration Testing/Bug Bounty.
+- 🌟 Expand my knowledge in Cybersecurity/SOC/DFIR.
 - Collarborate with others 
