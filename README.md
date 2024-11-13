@@ -10,7 +10,7 @@ Feel free to reach out to me on LinkedIn. Let's build something awesome together
 
 - 🌍  I'm based in Toronto, ON
 - ✉️  You can contact me at tavleen0302@gmail.com
-- 🧠  I'm learning Web pen testing and network infrastructure
+- 🧠  I'm learning DFIR, SOC and Networking
 - 🤝  I'm open to collaborating on doing Projects, Home Labs, & more.
 
 ## Cybersecurity
@@ -44,12 +44,24 @@ Feel free to reach out to me on LinkedIn. Let's build something awesome together
 [<img src ="https://files.cults3d.com/uploaders/13889723/illustration-file/88f914f9-4ec0-4d0c-8ebb-5edc51f4b3cd/kali_linux.jpg" height="40">](https://www.kali.org/)
 [<img src ="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWFQKzZ1qaXGyUmuZggOA9EDiLt9kpv9KyxA&usqp=CAU" height="40">](https://www.arduino.cc/)
 [<img src ="https://cdn.worldvectorlogo.com/logos/raspberry-pi.svg" height="40">](https://www.raspberrypi.com/)
-
 ## Certifications
+[<img src="https://intunedin.net/wp-content/uploads/2021/06/image.png" height="40">](https://learn.microsoft.com/en-us/credentials/certifications/security-operations-analyst/)
 
-SC-200: Microsoft Certified: Security Operations Analyst Associate
+🛡️ SC-200: Microsoft Certified: Security Operations Analyst Associate
 
 [View Certificate](https://learn.microsoft.com/api/credentials/share/en-us/TavleenAneja-8477/A8C89CD6E765FF4B?sharingId=6C933E6A519ABE8B)
+
+[<img src="https://images.credly.com/size/680x680/images/20082fc1-94af-4773-9df0-28856b566748/image.png" height="40">](https://www.fortinet.com/training/certification)
+
+🔐 Fortinet Certified Associate Cybersecurity
+
+[View Certficate](https://www.credly.com/badges/cede0aba-1874-4188-9371-9e07d0396711/public_url)
+
+[<img src="https://www.auvik.com/wp-content/uploads/2018/06/auvik-certified-professional-ACP-badge.png" height="40">](https://www.auvik.com/)
+
+🌐 Auvik Certified Professional
+
+[View Certficate](https://www.linkedin.com/in/tavleen-aneja/details/certifications/1727206367203/single-media-viewer/?profileId=ACoAADcjrvsBQjLpN7LwMU8xlPBWh40PtuR2i-0)
 
 [<img src="https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_74x24dp.png" height="40">](https://www.coursera.org/professional-certificates/google-cybersecurity)
 
