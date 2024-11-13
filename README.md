@@ -47,6 +47,7 @@ Feel free to reach out to me on LinkedIn. Let's build something awesome together
 
 ## Certifications
 
+SC-200: Microsoft Certified: Security Operations Analyst Associate
 
 [View Certificate](https://learn.microsoft.com/api/credentials/share/en-us/TavleenAneja-8477/A8C89CD6E765FF4B?sharingId=6C933E6A519ABE8B)
 
